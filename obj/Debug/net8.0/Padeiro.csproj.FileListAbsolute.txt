@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Padeiro\bin\Debug\net8.0\Padeiro.exe
+C:\Users\user\Documents\Padeiro\bin\Debug\net8.0\Padeiro.deps.json
+C:\Users\user\Documents\Padeiro\bin\Debug\net8.0\Padeiro.runtimeconfig.json
+C:\Users\user\Documents\Padeiro\bin\Debug\net8.0\Padeiro.dll
+C:\Users\user\Documents\Padeiro\bin\Debug\net8.0\Padeiro.pdb
+C:\Users\user\Documents\Padeiro\obj\Debug\net8.0\Padeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Padeiro\obj\Debug\net8.0\Padeiro.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Padeiro\obj\Debug\net8.0\Padeiro.AssemblyInfo.cs
+C:\Users\user\Documents\Padeiro\obj\Debug\net8.0\Padeiro.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Padeiro\obj\Debug\net8.0\Padeiro.dll
+C:\Users\user\Documents\Padeiro\obj\Debug\net8.0\refint\Padeiro.dll
+C:\Users\user\Documents\Padeiro\obj\Debug\net8.0\Padeiro.pdb
+C:\Users\user\Documents\Padeiro\obj\Debug\net8.0\Padeiro.genruntimeconfig.cache
+C:\Users\user\Documents\Padeiro\obj\Debug\net8.0\ref\Padeiro.dll
